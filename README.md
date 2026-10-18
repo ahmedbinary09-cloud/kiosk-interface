@@ -72,4 +72,4 @@ npm run test run
 - **Display:** 720p non-touch monitor.
 - **Compute:** Kickpi K2B running Chromium.
 - **Input:** Single GPIO push-button.
-- **Network:** Requires an active internet connection for the Web Speech API to function. Offline states must be handled gracefully.
+- **Network:** Requires an active internet connection for the Web Speech API to function. Offline states must be handled perfectly.
